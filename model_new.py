@@ -11,3 +11,5 @@ def model2(x):
 def model3(x):
     print('model3')
 
+print('selected 2nd model as best model')
+
