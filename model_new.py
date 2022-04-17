@@ -11,5 +11,5 @@ def model2(x):
 def model3(x):
     print('model3')
 
-print('selected 2nd model as best model')
+print('selected 1st model as best model')
 
